@@ -1,4 +1,3 @@
-# Portfolio_sh
 # Portfolio-website
 Fully resposive and user friendly website by using HTML, CSS and JavaScript.
 
@@ -49,3 +48,5 @@ Smooth scrolling for navigation
 
 Pushed the code to GitHub.
 Deployed and verified everything worked on the live site.
+
+
